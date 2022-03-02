@@ -358,7 +358,8 @@ public class ChessSudoku
     }
 
     
-
+    //Below are provided by the professor 
+    
     /* Default constructor.  This will initialize all positions to the default 0
      * value.  Use the read() function to load the Sudoku puzzle from a file or
      * the standard input. */
